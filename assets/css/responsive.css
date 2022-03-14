@@ -48,4 +48,25 @@
         color: #ffffff;
         padding: 5px 41px;
     }
+    .member-band .mobile-member{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #content .mobile-member .member-img{
+        width: 60%;
+    }
+
+    .places-list .mobile-places-list{
+        width: 100%;
+        margin-top: 30px;
+    }
+
+/*    Contact*/
+    .contact-content .mobile-contact{
+        width: 100%;
+    }
+    .contact-form .mobile-form{
+        width: 100%;
+        margin-top: 10px;
+    }
 }
